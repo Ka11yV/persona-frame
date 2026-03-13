@@ -125,11 +125,11 @@ npm run dev
 
 ## 👥 팀원
 
-| 이름 | 역할 |
-|------|------|
-| Ka11yV | - |
-| msnoeuan | - |
-| 엘리자베스 1세 | - |
+| 이름 | GitHub |
+|------|--------|
+| Ka11y | [@Ka11yV](https://github.com/Ka11yV) |
+| 유승민 | [@msnoeuan](https://github.com/msnoeuan) |
+| 신준수 | [@sin629370](https://github.com/sin629370) |
 
 ---
 
